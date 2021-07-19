@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSP-SP001-09-CTDPFJ000-telemetered-ctdpf_j_cspp_instrument
 data_stream: CE01ISSP-SP001-09-CTDPFJ000-telemetered-ctdpf_j_cspp_instrument
-end_date: '2020-09-03T20:08:46.116Z'
-last_updated: '2021-05-06T10:00:17.762017'
+end_date: '2021-04-06T20:01:58.683Z'
+last_updated: '2021-07-19T23:38:12.146824Z'
 start_date: '2014-04-17T23:18:23.684Z'
-status: success
+status: pending
